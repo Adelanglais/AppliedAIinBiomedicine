@@ -32,5 +32,5 @@ approaches was performed. For the first approach, the following techniques were 
 
 | GrAD-CAM          | LIME | 
 | -------------- | ----------- | 
-| ![GRAD_CAM](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/6bdc12e9624242b6d2155eea16fb0c31902c05d3/GradCam_XAI.png)            | ![LIME]()      |
+| ![GRAD_CAM](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/6bdc12e9624242b6d2155eea16fb0c31902c05d3/GradCam_XAI.png)            | ![LIME](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/3dfcf70f761a8662215e0b321138f186b0ae4d64/LIME_XAI.png)      |
 
