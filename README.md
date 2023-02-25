@@ -18,4 +18,10 @@ The dataset, the network architectures as well as the different training strateg
 
 ## Results
 
+| Model          | F1 - Normal | F1 - Pneumonia | F1 - Tuberculosis |
+| -------------- | ----------- | -------------- | ----------------- |
+| CNN            | 0.8915      | 0.9108         | 0.9639            |
+| EfficientNetB0 | 0.9882      | 0.9559         | 0.9908            |
+| VGG19 + SVM    | 0.9800      | 1.0000         | 0.9800            |
+
 ## XAI
