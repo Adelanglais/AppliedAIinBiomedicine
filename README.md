@@ -7,9 +7,7 @@ M.Sc. Biomedical Engineering - Politecnico di Milano - Milan, Italy
 The dataset used for this project is composed of 15470 X-Ray images, stored in PNG or JPEG format. These images come from healthy patients, patients with pneumonia or tuberculosis. A .csv file allows the name of a specific file to be associated with the class to which it belongs.  
 The dataset is unbalanced according to the class distribution which is as follows: 9354 images for the normal patients, 4250 for the pneumonia patients, and 1866 for the tuberculosis patients.
 
-<p align="center">
 ![img](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/111de3d380857be3e0d20068a6ca7931acb31981/dataset_example.png)
- </p>
 
 ## Models
 Three different approaches were implemented for this classification problem:  
@@ -26,8 +24,12 @@ The dataset, the network architectures as well as the different training strateg
 | EfficientNetB0 | 0.9882      | 0.9559         | 0.9908            |
 | VGG19 + SVM    | 0.9800      | 1.0000         | 0.9800            |
 
-<p align="center">
 ![confusion_matrix](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/bc681b3f80c1eee891fcce6795c2e1981b0cda74/confusion_matrix.png)
-</p>
 
 ## XAI
+After analyzing the performance of the models, an XAI analysis to provide explainability for the different
+approaches was performed. For the first approach, the following techniques were used: Grad-Cam and Lime.
+
+![GRAD_CAM]()
+
+![LIME]()
