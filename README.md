@@ -30,6 +30,6 @@ The dataset, the network architectures as well as the different training strateg
 After analyzing the performance of the models, an XAI analysis to provide explainability for the different
 approaches was performed. For the first approach, the following techniques were used: Grad-Cam and Lime.
 
-![GRAD_CAM]()
+![GRAD_CAM](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/6bdc12e9624242b6d2155eea16fb0c31902c05d3/GradCam_XAI.png)
 
 ![LIME]()
