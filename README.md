@@ -10,6 +10,11 @@ The dataset is unbalanced according to the class distribution which is as follow
 ![img](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/111de3d380857be3e0d20068a6ca7931acb31981/dataset_example.png)
 
 ## Models
+Three different approaches were implemented for this classification problem:  
++ Convolutional Neural Networks (CNN)
++ Transfer learning applied to CNN
++ Machine learning classifier with features extracted with CNN
+The dataset, the network architectures as well as the different training strategies are described in the report.
 
 ## Results
 
