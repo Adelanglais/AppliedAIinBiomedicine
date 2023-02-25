@@ -24,4 +24,6 @@ The dataset, the network architectures as well as the different training strateg
 | EfficientNetB0 | 0.9882      | 0.9559         | 0.9908            |
 | VGG19 + SVM    | 0.9800      | 1.0000         | 0.9800            |
 
+![confusion_matrix](https://github.com/Adelanglais/AppliedAIinBiomedicine/blob/bc681b3f80c1eee891fcce6795c2e1981b0cda74/confusion_matrix.png)
+
 ## XAI
